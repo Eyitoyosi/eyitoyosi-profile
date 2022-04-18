@@ -1,0 +1,9 @@
+body{
+    font-size: larger;
+    font-weight: 500px;
+    background-color: beige;
+}
+li,p {
+    list-style: circle;
+    font-style: italic;
+}
