@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/eyitoyosi-profile/static/css/main.b6047b32.css",
+    "main.js": "/eyitoyosi-profile/static/js/main.08d99310.js",
+    "index.html": "/eyitoyosi-profile/index.html",
+    "main.b6047b32.css.map": "/eyitoyosi-profile/static/css/main.b6047b32.css.map",
+    "main.08d99310.js.map": "/eyitoyosi-profile/static/js/main.08d99310.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b6047b32.css",
+    "static/js/main.08d99310.js"
+  ]
+}
